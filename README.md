@@ -1,2 +1,2 @@
 # ELLinGO
-Un application mobile pour l'apprentissage du langue anglaise 
+Une application mobile pour l'apprentissage du langue anglaise 
