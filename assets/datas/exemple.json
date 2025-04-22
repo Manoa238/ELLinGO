@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "TxtFr": "Je vais à l'école tous les jours.",
+      "TxtEn": "I go to school every day.",
+      "pronoun": "I",
+      "preposition": "to"
+    },
+    {
+      "id": 2,
+      "TxtFr": "Tu es avec ton ami.",
+      "TxtEn": "You are with your friend.",
+      "pronoun": "You",
+      "preposition": "with"
+    },
+    {
+      "id": 3,
+      "TxtFr": "Il travaille dans le bureau.",
+      "TxtEn": "He works in the office.",
+      "pronoun": "He",
+      "preposition": "in"
+    },
+    {
+      "id": 4,
+      "TxtFr": "Elle va chez le médecin.",
+      "TxtEn": "She goes to the doctor.",
+      "pronoun": "She",
+      "preposition": "to"
+    },
+    {
+      "id": 5,
+      "TxtFr": "Nous sommes à la maison.",
+      "TxtEn": "We are at home.",
+      "pronoun": "We",
+      "preposition": "at"
+    },
+    {
+      "id": 6,
+      "TxtFr": "Vous habitez près du parc.",
+      "TxtEn": "You live near the park.",
+      "pronoun": "You",
+      "preposition": "near"
+    },
+    {
+      "id": 7,
+      "TxtFr": "Ils viennent de l'école.",
+      "TxtEn": "They come from school.",
+      "pronoun": "They",
+      "preposition": "from"
+    },
+    {
+      "id": 8,
+      "TxtFr": "Elle est derrière moi.",
+      "TxtEn": "She is behind me.",
+      "pronoun": "She",
+      "preposition": "behind"
+    },
+    {
+      "id": 9,
+      "TxtFr": "Nous allons au cinéma avec des amis.",
+      "TxtEn": "We are going to the cinema with friends.",
+      "pronoun": "We",
+      "preposition": "with"
+    },
+    {
+      "id": 10,
+      "TxtFr": "Ils parlent de leur projet.",
+      "TxtEn": "They are talking about their project.",
+      "pronoun": "They",
+      "preposition": "about"
+    }
+  ]
+  

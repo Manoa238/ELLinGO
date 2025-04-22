@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction au Français",
+    "description": "Apprenez les bases du français",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Comment dit-on 'Hello' en français ?",
+        "options": ["Bonjour", "Merci", "Au revoir"],
+        "correctAnswer": "Bonjour"
+      },
+      {
+        "id": 2,
+        "question": "Complétez la phrase : 'Merci ...' (pour dire 'Thank you very much')",
+        "options": ["encore", "bien","beaucoup"],
+        "correctAnswer": "beaucoup"
+      },
+      {
+        "id": 3,
+        "question": "Vrai ou Faux : 'Bon matin' est une façon courante de dire 'Good morning' en français.",
+        "options": ["Vrai", "Faux"],
+        "correctAnswer": "Faux"
+      },
+      {
+        "id": 4,
+        "question": "Comment dit-on 'Good night' en français ?",
+        "options": [ "Bonsoir", "Bonne soirée","Bonne nuit"],
+        "correctAnswer": "Bonne nuit"
+      },
+      {
+        "id": 5,
+        "question": "Quelles sont les trois couleurs du drapeau français ?",
+        "options": ["Rouge, blanc, bleu", "Bleu, blanc, vert", "Rouge, jaune, bleu"],
+        "correctAnswer": "Rouge, blanc, bleu"
+      },
+      {
+        "id": 6,
+        "question": "Quel est le mot pour 'Please' en français ?",
+        "options": ["Pardon", "S'il vous plaît", "Merci"],
+        "correctAnswer": "S'il vous plaît"
+      },
+      {
+        "id": 7,
+        "question": "Comment dit-on 'Excuse me' en français ?",
+        "options": ["Excusez-moi", "Pardon", "S'il vous plaît"],
+        "correctAnswer": "Excusez-moi"
+      },
+      {
+        "id": 8,
+        "question": "Comment dit-on 'Sorry' en français ?",
+        "options": ["Excusez-moi","Pardon","Désolé"],
+        "correctAnswer": "Désolé"
+      },
+      {
+        "id": 9,
+        "question": "Quel est le mot français pour 'apple' ?",
+        "options": [ "Mangue","Pomme", "Banane"],
+        "correctAnswer": "Pomme"
+      },
+      {
+        "id": 10,
+        "question": "Quel mot correspond à l'article défini 'the' en français pour un nom masculin singulier ?",
+        "options": ["Le", "La", "Les"],
+        "correctAnswer": "Le"
+      }
+    ]
+  }
+]

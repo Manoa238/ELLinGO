@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Dans", 
+        "TxtEn": "In" 
+    },
+    {
+        "id": "2",
+        "src": "itemNiv2/dialogue.png",
+        "TxtFr": "Sur", 
+        "TxtEn": "On" 
+    },
+    {
+        "id": "3",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "à", 
+        "TxtEn": "At" 
+    },
+    {
+        "id": "4",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Sous", 
+        "TxtEn": "Under" 
+    },
+    {
+        "id": "5",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Derrière", 
+        "TxtEn": "Behind" 
+    },
+    {
+        "id": "6",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "à coté de", 
+        "TxtEn": "Next to" 
+    },
+    {
+        "id": "7",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Entre", 
+        "TxtEn": "Between" 
+    }
+]

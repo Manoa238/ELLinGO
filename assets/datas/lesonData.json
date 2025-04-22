@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Je", 
+        "TxtEn": "I" 
+    },
+    {
+        "id": "2",
+        "src": "itemNiv2/dialogue.png", 
+        "TxtFr": "tu", 
+        "TxtEn": "You" 
+    },
+    {
+        "id": "3",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Il", 
+        "TxtEn": "He" 
+    },
+    {
+        "id": "4",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Elle", 
+        "TxtEn": "She" 
+    },
+    {
+        "id": "5",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Nous", 
+        "TxtEn": "We" 
+    },
+    {
+        "id": "6",
+        "src": "../assets/images/itemNiv2/dialogue.png", 
+        "TxtFr": "Vous", 
+        "TxtEn": "They" 
+    }
+]

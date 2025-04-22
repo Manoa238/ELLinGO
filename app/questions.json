@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "type": "ChoixMultiple",
+    "question": "What is the English word for 'chat'?",
+    "options": ["dog", "cat", "bird"],
+    "answer": "cat",
+      "lang": "en"
+  },
+  {
+        "id": 2,
+        "type": "ChoixImage",
+         "question": "Which image represents a 'car'?",
+        "options": [
+            { "id": "car", "image": "🚗" },
+            { "id": "bike", "image": "🚲" },
+            { "id": "bus", "image": "🚌" }
+        ],
+        "answer": "car",
+        "lang": "en"
+    },
+  {
+    "id": 3,
+    "type": "Traduction",
+    "question": "Translate 'Good morning' to French.",
+    "options": ["Bonjour", "Bonsoir", "Salut"],
+    "answer": "Bonjour",
+      "lang": "en"
+  },
+  {
+    "id": 4,
+    "type": "VraiOuFaux",
+    "statement": "The sun rises in the west.",
+    "answer": false,
+      "lang": "en"
+  },
+   {
+    "id": 5,
+    "type": "ChoixImage",
+    "question": "Which image represents a 'dog'?",
+    "options": [
+        { "id": "dog", "image": "🐕" },
+        { "id": "cat", "image": "🐈" },
+        { "id": "bird", "image": "🐦" }
+    ],
+    "answer": "dog",
+      "lang": "en"
+  },
+  {
+    "id": 6,
+    "type": "TexteEtImage",
+    "question": "Select the correct word for this image:",
+     "image": "🍎",
+    "options": ["banana", "apple", "orange"],
+      "answer": "apple",
+    "lang": "en"
+  },
+  
+  {
+  "id": 7,
+  "type": "ChoixMultiple",
+  "question": "Which word is a synonym of 'happy'?",
+  "options": ["sad", "joyful", "angry"],
+  "answer": "joyful",
+  "lang": "en"
+  },
+  {
+  "id": 8,
+  "type": "Traduction",
+  "question": "Translate 'How much?' to French.",
+    "options": ["Combien", "Pourquoi", "Où"],
+  "answer": "Combien",
+  "lang": "en"
+  }
+  
+ 
+    
+]

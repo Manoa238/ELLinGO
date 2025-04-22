@@ -1,0 +1,211 @@
+{
+    "fruits" : [
+        {
+            "id": 1,
+            "english": "Apple", 
+            "french": "Pomme",
+            "image": "../../assets/images/apple.png"
+        }, 
+        {
+            "id": 2,
+            "english": "Avocado",
+            "french": "Avocat",
+            "image": "../../assets/images/avocado.png"
+        },
+        {
+            "id": 3,
+            "english": "Banana",
+            "french": "Banane",
+            "image": "../../assets/images/banana.png"
+        },
+        {
+            "id": 4,
+            "english": "Blueberry",
+            "french": "Myrtille",
+            "image": "../../assets/images/blueberry.png"
+        },
+        {
+            "id": 5,
+            "english": "Cherry",
+            "french": "Cerises",
+            "image": "../../assets/images/cherry.png"
+        },
+        {
+            "id": 6,
+            "english": "Kiwi",
+            "french": "Kiwi",
+            "image": "../../assets/images/kiwi.png"
+        },
+        {
+            "id": 7,
+            "english": "Litchis",
+            "french": "Litchis",
+            "image": "../../assets/images/litchis.png"
+        },
+        {
+            "id": 8,
+            "english": "Mango",
+            "french": "Mangue",
+            "image": "../../assets/images/mango.png"
+        },
+        {
+            "id": 9,
+            "english": "Orange",
+            "french": "Orange",
+            "image": "../../assets/images/orange.png"
+        },
+        {
+            "id": 10,
+            "english": "Pineapple",
+            "french": "Ananas",
+            "image": "../../assets/images/pineapple.png"
+        },
+        {
+            "id": 11,
+            "english": "Strawberry",
+            "french": "Fraise",
+            "image": "../../assets/images/strawberry.png"
+        },
+        {
+            "id": 12,
+            "english": "Tomatoes",
+            "french": "Mangue",
+            "image": "../../assets/images/tomato.png"
+        },
+        {
+            "id": 13,
+            "english": "Watermelon",
+            "french": "Pastèque",
+            "image": "../../assets/images/watermelon.png"
+        }
+    ],
+
+    "animals" : [
+        {
+            "id": 1,
+            "english": "Bear",
+            "french": "Ours",
+            "image" : "../../assets/images/bear.png"
+        },
+        {
+            "id": 2,
+            "english": "Bird", 
+            "french": "Oiseaux", 
+            "image": "../../assets/images/bird.png"
+        },
+        {
+            "id": 3,
+            "english": "Cat", 
+            "french": "Chat", 
+            "image": "../../assets/images/cat.png"
+        },
+        {
+            "id": 4,
+            "english": "Chicken", 
+            "french": "Poulet", 
+            "image": "../../assets/images/poulet.png"
+        },
+        {
+            "id": 5,
+            "english": "Dinosaur", 
+            "french": "Dinozore", 
+            "image": "../../assets/images/dinosaur.png"
+        },
+        {
+            "id": 6,
+            "english": "Dog", 
+            "french": "Chien", 
+            "image": "../../assets/images/dog.png"
+        },
+        {
+            "id": 7,
+            "english": "Elephant", 
+            "french": "Eléphant", 
+            "image": "../../assets/images/elephant.png"
+        },
+        {
+            "id": 8,
+            "english": "Fish", 
+            "french": "Poisson", 
+            "image": "../../assets/images/fish.png"
+        },
+        {
+            "id": 9,
+            "english": "Flamingo", 
+            "french": "Flamant", 
+            "image": "../../assets/images/flamant.png"
+        },
+        {
+            "id": 10,
+            "english": "Frog", 
+            "french": "Grenouille", 
+            "image": "../../assets/images/grenouille.png"
+        },
+        {
+            "id": 11,
+            "english": "Goat", 
+            "french": "Chèvre", 
+            "image": "../../assets/images/chevre.png"
+        },
+        {
+            "id": 12,
+            "english": "Hedgehog", 
+            "french": "Herisson", 
+            "image": "../../assets/images/herisson.png"
+        },
+        {
+            "id": 13,
+            "english": "Horse", 
+            "french": "Cheval", 
+            "image": "../../assets/images/cheval.png"
+        },
+        {
+            "id": 14,
+            "english": "Lion", 
+            "french": "Lion", 
+            "image": "../../assets/images/lion.png"
+        },
+        {
+            "id": 15,
+            "english": "Mouse", 
+            "french": "Souris", 
+            "image": "../../assets/images/mouse.png"
+        },
+        {
+            "id": 16,
+            "english": "Penguin", 
+            "french": "Manchot", 
+            "image": "../../assets/images/manchot.png"
+        },
+        {
+            "id": 17,
+            "english": "Seal", 
+            "french": "Joint", 
+            "image": "../../assets/images/joint.png"
+        },
+        {
+            "id": 18,
+            "english": "Sheep", 
+            "french": "Mouton", 
+            "image": "../../assets/images/mouton.png"
+        },
+        {
+            "id": 19,
+            "english": "Snake", 
+            "french": "Serpent", 
+            "image": "../../assets/images/serpent.png"
+        },
+        {
+            "id": 20,
+            "english": "Snail", 
+            "french": "Escargot", 
+            "image": "../../assets/images/escargot.png"
+        },
+        {
+            "id": 21,
+            "english": "Turtle", 
+            "french": "Tortue", 
+            "image": "../../assets/images/tortue.png"
+        }
+    ]
+}
